@@ -1,0 +1,23 @@
+Package:			meteoapi
+Version:			1.0.1
+Packager:			OpenAI
+Email:
+Homepage:			https://open-meteo.com/
+Description:		Lightweight weather collector, local dashboard and REST API for ARMv7 WD My Cloud NAS devices.
+Icon:				meteoapi.png
+AddonShowName:		MeteoAPI
+AddonIndexPage:		index.php
+AddonUsedPort:
+AddonDefaultPort:
+AddonDefaultGroup:
+AddonDefaultUser:
+InstDepend:
+InstConflict:
+StartDepend:
+StartConflict:
+CenterType:			0
+UserControl:		1
+MinFWVer:			5.27.157
+MaxFWVer:
+IndividualFlag:		1
+Hidden:				off

@@ -1,0 +1,4 @@
+MeteoAPI 1.0.1
+- Corrige un fallo de alineación de operaciones atómicas de 64 bits en ARMv7.
+- Añade recuperación y registro de pánicos HTTP para evitar respuestas vacías.
+- Añade una comprobación local del panel durante el arranque.
